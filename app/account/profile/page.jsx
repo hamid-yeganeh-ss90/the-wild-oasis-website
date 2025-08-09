@@ -1,6 +1,6 @@
 //profile page
 import UpdateProfileForm from "@/app/_components/UpdateProfileForm";
-import SelectCountry from "@/app/_components/SelectCountry";
+import {SelectCountry} from "@/app/_components/SelectCountry";
 import {auth} from "@/app/_lib/auth"
 import {getGuest} from "@/app/_lib/data-service"
 
